@@ -1,0 +1,5 @@
+com\note\REST\Interface\NoteRESTService.class
+com\note\models\NoteHolder.class
+com\note\controller\NoteHolderManipulator.class
+com\note\test\RESTClient.class
+com\note\models\Note.class
