@@ -27,7 +27,7 @@ import com.note.models.NoteHolder;
 public class NoteRESTService {
 	
 	/*
-	 * POST, receives a JSON body and sends it to the Note Manager to be added
+	 * POST, receives a Text body and sends it to the Note Manager to be added
 	 */
 	@POST
 	@Produces(MediaType.TEXT_PLAIN)
